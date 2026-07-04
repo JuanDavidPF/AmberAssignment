@@ -1,0 +1,19 @@
+{
+    "name": "Amber.Editor",
+    "rootNamespace": "Amber.Editor",
+    "references": [
+        "GUID:bc0eda81397593f4dbbdcf5498471e21",
+        "GUID:7107f0cf09bc29940a3ce1add8d91690"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

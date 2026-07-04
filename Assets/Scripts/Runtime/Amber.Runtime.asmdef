@@ -1,0 +1,16 @@
+{
+    "name": "Amber.Runtime",
+    "rootNamespace": "Amber.Runtime",
+    "references": [
+        "GUID:bc0eda81397593f4dbbdcf5498471e21"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
